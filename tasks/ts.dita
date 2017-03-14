@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="t-trouble">
+  <title>Troubleshooting</title>
+  <troublebody>
+    <condition>
+      <p>You are bored while on Spring Break</p>
+    </condition>
+    <troubleSolution>
+      <cause>
+        <title>Get in the hot tub</title>
+        <p>The hot tub is fun</p>
+      </cause>
+      <remedy>
+        <responsibleParty></responsibleParty>
+        <steps-unordered>
+          <step>
+            <cmd></cmd>
+          </step>
+        </steps-unordered>
+      </remedy>
+    </troubleSolution>
+  </troublebody>
+</troubleshooting>
