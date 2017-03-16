@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_wvz_gqn_cz">
-    <title></title>
-    <shortdesc/>
+    <title>How to Drive Home</title>
+    <shortdesc>I will be driving home for Spring Break to Chesterfield, Virginia. This drive
+        normally takes 3 and 1/2 hours. </shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>Driving home can be boring, you should be prepared for this.<p/></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Pack all of your bags</cmd>
+            </step>
+            <step>
+                <cmd>Fill up your gas tank</cmd>
+            </step>
+            <step>
+                <cmd>Create a Spotify playlist that will last the 3 ½ hour drive</cmd>
+            </step>
+            <step>
+                <cmd>Enter the address into your GPS</cmd>
+            </step>
+            <step>
+                <cmd>Follow the GPS instructions and drive home</cmd>
             </step>
         </steps>
     </taskbody>

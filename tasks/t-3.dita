@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_dgr_4qn_cz">
-    <title></title>
-    <shortdesc/>
+    <title>How to Set Up a Sleeping Bag</title>
+    <shortdesc>You will be sleeping on a sleeping bag on the floor in my room.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>You need open the sleeping bag to sleep in it. Be sure to bring a pillow. <p><image
+                    href="springbreak/springbreak/images/sleeping%20bag.jpg" width="600"
+                    height="300" id="image_utm_45n_cz"/></p></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Unwrap the sleeping bag from wrapper</cmd>
+            </step>
+            <step>
+            <cmd>Unfold the sleeping bag</cmd>
+            </step>
+            <step>
+            <cmd>Lay the sleeping bag on the floor</cmd>
+            </step>
+            <step>
+            <cmd>Sleep in the sleeping bag</cmd>
             </step>
         </steps>
     </taskbody>

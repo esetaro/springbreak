@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_knv_lqn_cz">
-    <title></title>
-    <shortdesc/>
+    <title>How to Study for the LSAT</title>
+    <shortdesc>During Spring I will be studying for the LSAT, so you will be too.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
+        <context>Studying for the LSAT is difficult but it is an important factor in applying to Law
+            School. Test books can be expensive. <p><image
+                    href="springbreak/springbreak/images/lsat-trilogy-1.png" id="image_hnl_h5n_cz"
+                /></p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Purchase the PowerScore LSAT books on Amazon, as well as the LSAC Practice
+                    tests. </cmd>
+            </step>
+            <step>
+                <cmd>Read through the introductory chapters in the trilogy
+              </cmd>
+            </step>
+            <step>
+                <cmd>Take a practice test</cmd>
+            </step>
+            <step>
+                <cmd>Study the questions you missed</cmd>
+            </step>
+            <step>
+                <cmd>Repeat steps 1-4 until you have mastered the content.</cmd>
             </step>
         </steps>
     </taskbody>

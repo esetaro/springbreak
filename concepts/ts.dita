@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="t-trouble">
+  <title>Troubleshooting</title>
+  <troublebody>
+    <condition>
+      <p>You are bored from studying while on Spring Break.</p>
+    </condition>
+    <troubleSolution>
+      <cause>
+        <title>Studying is boring.</title>
+        <p>The hot tub is fun and not boring.</p>
+      </cause>
+      <remedy>
+        <responsibleParty></responsibleParty>
+        <steps-unordered>
+          <step>
+            <cmd>Get in the hot tub.</cmd>
+          </step>
+          <step>
+            <cmd>Enjoy the hot tub.</cmd>
+          </step>
+          <step>
+            <cmd>Go back to studying.</cmd>
+          </step>
+        </steps-unordered>
+      </remedy>
+    </troubleSolution>
+  </troublebody>
+</troubleshooting>

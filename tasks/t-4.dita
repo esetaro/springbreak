@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_jms_pqn_cz">
-    <title></title>
-    <shortdesc/>
+    <title>How to Buy a Sleeping Bag</title>
+    <shortdesc>You need to buy a sleeping bag to sleep on the floor. </shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>Sleeping bags can be expensive, but it is necessaru so you don't have to sleep on
+            the floor. <p/></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Go to Walmart</cmd>
+            </step>
+            <step>
+                <cmd>Go to the camping section</cmd>
+            </step>
+            <step>
+                <cmd>Find a sleeping bag</cmd>
+            </step>
+            <step>
+                <cmd>Buy the sleeping bag</cmd>
             </step>
         </steps>
     </taskbody>
